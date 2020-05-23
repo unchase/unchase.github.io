@@ -1,0 +1,16 @@
+---
+layout: null
+sitemap: false
+---
+
+User-Agent: *
+Disallow: /.git/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_sass/
+Disallow: /assets/
+Disallow: /.gitignore$
+Disallow: /*.yml$
+Disallow: /*.md$
+Disallow: /*.txt$
+Disallow: /*.sh$
